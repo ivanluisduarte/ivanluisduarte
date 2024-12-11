@@ -1,4 +1,12 @@
-## Hi there 👋
+# Olá, eu sou Ivan Luís Duarte!
+
+Sou um Cientista/Engenheiro de Dados com conhecimento em Python, SQL/Hive e SAS.
+
+Trabalho com recuperação, manipulação e análise de dados.
+
+<a href="https://www.linkedin.com/in/ivanluisduarte">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin" alt="LinkedIn">
+</a>
 
 <!--
 **ivanluisduarte/ivanluisduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
