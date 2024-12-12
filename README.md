@@ -1,4 +1,4 @@
-# Olá, eu sou Ivan Luís Duarte!
+# Olá, eu sou *Ivan Luís Duarte*!
 
 Sou um Cientista/Engenheiro de Dados com conhecimento em Python, SQL/Hive e SAS.
 
